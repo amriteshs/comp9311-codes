@@ -2,7 +2,7 @@
 
 Details on the kinds of data items that might need to be stored in the back-end of the myPhotos.net web site:
 
-### Photos
+#### Photos
 * photos can be uploaded onto the site and must be in JPEG format
 * each photo is stored in the file system and a record about the photo is created
 * the photo record contains a title for the picture, descriptive text and the file size in KB
@@ -61,3 +61,6 @@ Details on the kinds of data items that might need to be stored in the back-end 
 * a comment is a small piece of text written by a user
 * comments can be threaded (by one comment referring to an earlier comment)
 * for each comment, we need to record the author and the time it was posted
+
+
+## Assignment-2
